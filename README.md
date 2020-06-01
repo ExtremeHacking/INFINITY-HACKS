@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/ExtremeHacking/infinityhacks-botnet/blob/master/assets/webpublic/logo.png" height="60"><br>
-A cloud based remote android managment suite, powered by NodeJS
+A cloud based remote android management suite, powered by NodeJS
 </p>
 
 
