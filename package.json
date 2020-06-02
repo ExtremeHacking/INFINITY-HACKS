@@ -4,6 +4,7 @@
   "description": "INFINITY_HACKS_BOTNET - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node index.js"
   },
   "author": "INFINITYHACKS",
